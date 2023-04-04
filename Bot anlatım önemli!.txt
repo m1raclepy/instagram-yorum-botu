@@ -1,0 +1,6 @@
+Bilgiler.txt'e istediğiniz kadar hesap girebilirsiniz
+link.txt'e sadece 1 adet link giriniz
+yorumlar.txt'e sadece 1 yorum girin.
+
+
+İyi günlerde kullanın ! Dev @m1raclepy
