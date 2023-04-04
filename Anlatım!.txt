@@ -1,1 +1,0 @@
-kullanıcıadı.txt'e hesabı açık ve reels videolarını indirmek istediğiniz sayfayı veya kişinin kullanıcı adını giriniz.
